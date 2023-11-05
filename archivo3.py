@@ -1,0 +1,1 @@
+print("3er archivo como nuestra tercera estrella")
